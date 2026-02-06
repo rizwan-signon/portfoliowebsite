@@ -5,7 +5,6 @@ function TechnicalSkills() {
       <div className="chip-grid">
         <span>React</span>
         <span>Next.js</span>
-        <span>Angular</span>
         <span>TypeScript</span>
         <span>Tailwind CSS</span>
         <span>Material UI</span>

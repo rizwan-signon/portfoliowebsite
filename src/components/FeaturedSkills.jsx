@@ -6,7 +6,7 @@ function FeaturedSkills() {
         <div className="feature-card">
           <h3>Frontend</h3>
           <p className="muted">
-            React, Next.js, Angular, TypeScript, Tailwind CSS, Material UI, Vite
+            React, Next.js, TypeScript, Tailwind CSS, Material UI, Vite
           </p>
         </div>
         <div className="feature-card">
